@@ -5,5 +5,5 @@ export let reporter = () => {
     spec: {
       displayStacktrace: true
     }
-  }))
-}
+  }));
+};
